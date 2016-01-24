@@ -2,10 +2,8 @@
 using System.IO.IsolatedStorage;
 
 
-namespace InstaCollage
-{
     // It is simple manager to save info in IsolatedStorage
-    // Can be used in WP projects, for example
+    // Can be used in WP 8.0 projects, for example. But for 8.1 I will rework it for using new stuff.
     // I use it for the our WinGym project. 
     public static class SettingsManager
     {
@@ -55,4 +53,3 @@ namespace InstaCollage
 
         }
     }
-}
