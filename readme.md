@@ -7,6 +7,3 @@ Simple and easy to use code for working with the IsolatedStorage for storing som
 
 ## Converters
 Everybody already writes that kind of stuff for them, but I want it to be here. PathToImageSource may be useful, btw.
-
-## Contact
-Hi! My name is Ivan, and I am indie developer, i.e. homeless. :) You can find me in facebook: https://www.facebook.com/i.terhin or twitter: https://twitter.com/ITerhin
